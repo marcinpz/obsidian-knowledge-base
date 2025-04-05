@@ -1,15 +1,16 @@
 # Obsidian Knowledge Base
 
 ```mermaid
+graph TD;
     A[Obsidian Vault] --> B[English]
     A --> C[Po Polsku]
     
     B --> G[Work]
     
-    C --> H[szklarnia]
-    C --> I[Zainteresowania]
+    G --> D[AI]
+    G --> E[BlockChain]
+    G --> F[DevOps]
 
-    B --> D[AI]
-    B --> E[BlockChain]
-    B --> F[DevOps]
+    C --> H[Budownictwo]
+    C --> I[Zainteresowania]
 ```
