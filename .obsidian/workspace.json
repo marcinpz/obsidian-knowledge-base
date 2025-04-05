@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "77201a9147d752dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2faec6386a508d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b9d773b66fd023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "88284bbf3131dc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praca/DevOps/Przygotowanie do pracy jako DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Przygotowanie do pracy jako DevOps"
+            }
+          },
+          {
+            "id": "d690a94db8d9a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praca/AI/LangChain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LangChain"
+            }
+          },
+          {
+            "id": "c59938b18c00eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praca/DevOps/1. Ocena obecnych umiejętności.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ocena obecnych umiejętności"
+            }
+          },
+          {
+            "id": "f313279307f10142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praca/DevOps/Tematy/Cloud/kubernetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kubernetes"
+            }
+          },
+          {
+            "id": "9c340b6a156ba9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praca/DevOps/Tematy/Cloud/GCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GCP"
+            }
+          },
+          {
+            "id": "7e73029ff47c1dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Work/DevOps/Tematy/Cloud/k8s/kubernetes-overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kubernetes-overview"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4a7057d6f2e9d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "7928b889f86403f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89848cfa53caaff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4dbe9ddc77e49ec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8e7dbb790cdb54b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65dce573748ce180",
+    "type": "split",
+    "children": [
+      {
+        "id": "82853e92bbc0e8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70096ba720518600",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Work/DevOps/Tematy/Cloud/k8s/kubernetes-overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for kubernetes-overview"
+            }
+          },
+          {
+            "id": "0b5073464cc6ed98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Praca/DevOps/Tematy/Cloud/k8s/tooling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tooling"
+            }
+          },
+          {
+            "id": "79e2f2349a931684",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5b2708e804d350e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Szklarnia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Szklarnia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e73029ff47c1dde",
+  "lastOpenFiles": [
+    "English/Work/DevOps/Tematy/Cloud/k8s/podstawy.md",
+    "English/Work/DevOps/Tematy/Cloud/k8s/kubernetes-overview.md",
+    "English/Work/DevOps/Tematy/Cloud/k8s/Kubernetes Basics for DevOps.md",
+    "English/Work/DevOps/Tematy/Networking Basics.md",
+    "English/Work/DevOps/DevOps.canvas",
+    "Prywatne/Praca/7. Notatki i śledzenie postępów.md",
+    "English/Work/DevOps/Tematy/Chmura.md",
+    "English/Work/DevOps/Tematy/Języki Programowania.md",
+    "Prywatne/Praca/1. Ocena obecnych umiejętności.md",
+    "Prywatne/Praca/Przygotowanie do pracy jako DevOps.md",
+    "Welcome.md",
+    "Prywatne/Sytuacja życiowa.md",
+    "Prywatne/Praca/Szukanie pracy.md",
+    "Prywatne/Zainteresowania",
+    "Prywatne",
+    "Prywatne/Zainteresowania/Cywilizacja łacińska.md",
+    "English/Work",
+    "English",
+    "English/Work/DevOps/Tematy/tooling/docker.md",
+    "English/Work/DevOps/Tematy/Blockchain/smart-contracts.md",
+    "Praca/DevOps/Tematy/tooling/Niepotwierdzony 876240.crdownload",
+    "English/Work/DevOps/Tematy/Blockchain/blockchain.md",
+    "Praca/DevOps/Tematy/Blockchain/Niepotwierdzony 178179.crdownload",
+    "English/Work/DevOps/Tematy/Blockchain/web3.md",
+    "Praca/DevOps/Tematy/Blockchain/Niepotwierdzony 374420.crdownload",
+    "Praca/DevOps/Tematy/Blockchain/Niepotwierdzony 836739.crdownload",
+    "English/Work/DevOps/Tematy/Blockchain",
+    "English/Work/DevOps/Tematy/tooling/ping.md",
+    "Praca/DevOps/Tematy/tooling/Niepotwierdzony 79797.crdownload",
+    "English/Work/DevOps/Tematy/Cloud/k8s/tooling.md",
+    "English/Work/DevOps/Tematy/Cloud/k8s/Service types.md",
+    "English/Work/DevOps/Tematy/Cloud/k8s/port-forwarding-vs-proxy.md",
+    "Prywatne/szklarnia/8m.md",
+    "Prywatne/szklarnia/Szklarnia.md",
+    "English/Work/DevOps/Tematy/Cloud/GCP.md",
+    "English/Work/AI/LangChain.md",
+    "Praca/DevOps/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
