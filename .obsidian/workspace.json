@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Po Polsku/Budownictwo/Szklarnia/Szklarnia - ogólne.md",
+                "file": "English/Work/DevOps/Topics/Cloud/GCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Szklarnia - ogólne"
+              "title": "GCP"
+            }
+          },
+          {
+            "id": "96e169f81c6cf4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Work/DevOps/Topics/tooling/terraform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "terraform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "terraform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,18 +185,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85b9d773b66fd023",
+  "active": "96e169f81c6cf4ef",
   "lastOpenFiles": [
+    "Terraform.md",
+    "English/Work/DevOps/Topics/tooling/terraform.md",
+    "English/Work/DevOps/Topics/tooling/Niepotwierdzony 357814.crdownload",
+    "English/Work/DevOps/Topics/Cloud/GCP.md",
+    "English/Work/DevOps/Topics/Cloud/Kubernetes/Overview.md",
+    "English/Work/DevOps/Topics/Cloud/Kubernetes/port-forwarding-vs-proxy.md",
+    "English/Work/DevOps/Topics/Cloud/Kubernetes/Basics for DevOps.md",
+    "English/Work/DevOps/Topics/Cloud/Kubernetes/Tooling.md",
+    "English/Work/DevOps/Topics/Cloud/Kubernetes/Architecture.md",
+    "Pasted image 20250410110527.png",
+    "English/Work/DevOps/Topics/Cloud/AWS/Basics.md",
+    "English/Work/DevOps/Topics/Cloud/k8s/Niepotwierdzony 255186.crdownload",
+    "Po Polsku/Budownictwo/Szklarnia/Szklarnia - ogólne.md",
+    "English/Work/Blockchain/web3.md",
+    "English/Work/Blockchain/smart-contracts.md",
+    "English/Work/Blockchain/blockchain.md",
+    "English/Work/Blockchain",
     "English/Work/DevOps/Topics/Cloud/AWS/DevOps.md",
     "English/Work/DevOps/Topics/Cloud/AWS/Niepotwierdzony 30518.crdownload",
-    "English/Work/DevOps/Topics/Cloud/AWS/Basics.md",
     "English/Work/DevOps/Topics/Cloud/AWS/Niepotwierdzony 731816.crdownload",
     "Po Polsku/Budownictwo/Szklarnia/8m.md",
-    "Po Polsku/Budownictwo/Szklarnia/Szklarnia - ogólne.md",
     "Po Polsku/Budownictwo/Szklarnia/szklarnia geodezyjna z poliwęglanu.md",
     "Po Polsku/Budownictwo/Szklarnia/Kopuła geodezyjna 8m - uszczelki i taśmy.md",
     "Po Polsku/Budownictwo/Szklarnia/Niepotwierdzony 29485.crdownload",
-    "English/Work/DevOps/Topics/Cloud/GCP.md",
     "English/Work/DevOps/Topics/Cloud/AWS",
     "English/Work/DevOps/Topics/Programming Languages/Python.md",
     "English/Work/DevOps/Topics/Programming Languages/Bash.md",
@@ -190,23 +220,10 @@
     "English/Work/DevOps/Topics/Programming Languages/Niepotwierdzony 952140.crdownload",
     "English/Work/DevOps/Topics/Programming Languages/Niepotwierdzony 444486.crdownload",
     "English/Work/DevOps/Topics/tooling/docker.md",
-    "English/Work/DevOps/Topics/Programming Languages",
-    "English/Work/DevOps/Topics/Cloud/k8s/k8s tooling.md",
     "English/Work/AI/LangChain.md",
     "Kubernetes.md",
     "Welcome.md",
-    "Po Polsku/Budownictwo/Szklarnia",
-    "Po Polsku/Budownictwo",
     "Po Polsku/Szklarnia/Budownictwo/Szklarnia/Szklarnia.md",
-    "Po Polsku/Szklarnia/Budownictwo/Szklarnia/8m.md",
-    "README-01JR3GVZ4ERJR4TY4BHBE7VJFP.md",
-    "Po Polsku/Zainteresowania/Cywilizacja łacińska.md",
-    "Po Polsku/szklarnia/Budownictwo/Szklarnia/Szklarnia.md",
-    "Po Polsku/szklarnia/Budownictwo/Szklarnia/8m.md",
-    "Po Polsku/szklarnia/Szklarnia.md",
-    "Po Polsku/szklarnia/8m.md",
-    "README.md",
-    "English/Work/DevOps/Tematy/Cloud/k8s/podstawy.md",
     "English/Work/DevOps/DevOps.canvas",
     "Praca/DevOps/Untitled.canvas",
     "Untitled.canvas"
