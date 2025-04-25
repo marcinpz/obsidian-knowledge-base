@@ -42,7 +42,7 @@
 
 ## 5. Infrastruktura jako kod (IaC)
 - **Cloud Deployment Manager**: Definiowanie zasobów GCP w YAML lub Jinja.
-- **[[Terraform]]**: Alternatywa open-source do zarządzania infrastrukturą multi-cloud.
+- **[[terraform]]**: Alternatywa open-source do zarządzania infrastrukturą multi-cloud.
 - **Przykład (Deployment Manager)**:
   ```yaml
   resources:
