@@ -212,3 +212,4 @@ helm list
 ✅ **Helm** – Kubernetes package manager
 
 These are the core Kubernetes basics for DevOps! 🚀
+problem,aktywnosc i rezulatat
