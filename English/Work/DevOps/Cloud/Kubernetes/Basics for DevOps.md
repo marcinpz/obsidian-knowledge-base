@@ -25,9 +25,6 @@ spec:
 kubectl apply -f my-nginx.yaml
 kubectl get pods
 ```
-
----
-
 ### **2️⃣ Deployment (Managing Scaling & Updates)**
 
 A Deployment manages pods, ensuring replication and updates.
@@ -61,7 +58,9 @@ kubectl apply -f nginx-deployment.yaml
 kubectl scale deployment nginx-deployment --replicas=5
 ```
 
----
+#### Deployment strategies
+
+See [[Deployment strategies]]
 
 ### **3️⃣ Service (Exposing Applications)**
 
@@ -91,13 +90,9 @@ kubectl get services
 🔹 **Service Types:**
 
 - **ClusterIP** – default, internal communication
-    
 - **NodePort** – accessible via `NodeIP:Port`
-    
 - **LoadBalancer** – integrates with cloud load balancers
-    
 - **Ingress** – HTTP(S) routing for multiple apps
-    
 
 ---
 
@@ -212,4 +207,3 @@ helm list
 ✅ **Helm** – Kubernetes package manager
 
 These are the core Kubernetes basics for DevOps! 🚀
-problem,aktywnosc i rezulatat
