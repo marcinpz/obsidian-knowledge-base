@@ -1,5 +1,5 @@
 
-## 🔄 [[REST]] vs [[GraphQL]] vs Microsoft [[Graph]] API (DevOps Focus)
+## 🔄 [[RESTful Web Services]] vs [[GraphQL]] vs Microsoft [[Graph]] API (DevOps Focus)
 
 ### 🧩 API Type Overview
 

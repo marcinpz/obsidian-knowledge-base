@@ -1,7 +1,7 @@
 **Spring Boot Overview**
 
 **1. Introduction**  
-Spring Boot, introduced in 2014 by the Pivotal team (now part of VMware), is a project built on top of the Spring Framework. It simplifies the setup and development of Spring applications by offering a suite of defaults, auto-configuration, and embedded server support.
+Spring Boot, introduced in 2014 by the Pivotal team (now part of VMware), is a project built on top of the [[Spring Framework]]. It simplifies the setup and development of Spring applications by offering a suite of defaults, auto-configuration, and embedded server support.
 
 **2. Core Concepts**
 

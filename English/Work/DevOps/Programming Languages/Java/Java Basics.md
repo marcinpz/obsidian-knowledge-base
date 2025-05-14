@@ -141,7 +141,7 @@ public class ServiceChecker {
 
 ## Next Steps
 - Learn about:
-  - Maven/Gradle for builds
+  - Maven/[[Gradle]] for builds
   - Java logging frameworks
   - Working with REST APIs
   - Java system utilities
