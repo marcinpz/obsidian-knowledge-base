@@ -11,7 +11,7 @@ PostgreSQL, often called "Postgres," evolved from the POSTGRES project at UC Ber
 - **Scalability**: Manages terabytes of data and high concurrent user loads.
 - **Cross-Platform**: Runs on Linux, Windows, macOS, and more.
 
-PostgreSQL is widely used in [[CI/CD]] pipelines, [[Infrastructure as Code]] setups, and cloud-native environments, making it a critical topic for DevOps interviews.
+PostgreSQL is widely used in [[CI/CD]] pipelines, [[Infrastructure as Code]] setups, and cloud-native environments, making it a critical topic for DevOps interviews. It also integrates with [[Kubernetes]] and [[Prometheus]] for efficient monitoring and operations.
 
 ## Key Features
 

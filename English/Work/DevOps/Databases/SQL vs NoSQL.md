@@ -2,7 +2,7 @@
 
 ## Overview
 
-In DevOps, understanding the differences between relational ([[SQL]]) and non-relational ([[NoSQL]]) databases is crucial for selecting the right tool for each application, optimizing performance, scalability, and maintenance.
+In DevOps, understanding the differences between relational ([[ACID]]) and non-relational [[NoSQL]] databases is crucial for selecting the right tool for each application, optimizing performance, scalability, and maintenance.
 
 ---
 

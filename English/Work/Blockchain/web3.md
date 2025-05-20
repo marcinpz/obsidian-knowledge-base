@@ -11,7 +11,7 @@
 ## Key Components
 - **[[blockchain]]**: Distributed ledger for trustless transactions
   - e.g., Ethereum, Solana, Polygon
-- **[[Smart Contracts]]**: Self-executing code on blockchain
+- [[Smart Contracts]]: Self-executing code on blockchain
   - Written in Solidity (Ethereum), Rust (Solana), etc.
 - **Cryptocurrencies**: Native tokens (e.g., ETH, BTC)
   - Fuel transactions and incentivize network participation

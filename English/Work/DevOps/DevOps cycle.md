@@ -6,55 +6,63 @@ DevOps is a collaborative approach that unifies software development and IT oper
 
 ## 🔄 Main Stages
 
-1. [[Plan]]
-2. [[Develop]]
-3. [[Build]]
-4. [[Test]]
-5. [[Release]]
-6. [[Deploy]]
-7. [[Operate]]
-8. [[Monitor]]
+1. [Plan](#plan)
+2. [Develop](#develop)
+3. [Build](#build)
+4. [Test](#test)
+5. [Release](#release)
+6. [Deploy](#deploy)
+7. [Operate](#operate)
+8. [Monitor](#monitor)
 
 ---
 
 ## 📌 Stage Descriptions
 
 ### [[Plan]]
+
 - Define project goals and requirements
 - Stakeholder collaboration
 - Create user stories and backlog
 
 ### [[Develop]]
+
 - Write code
 - Code review and collaboration
 - Version control (e.g., Git)
 
 ### [[Build]]
+
 - Compile and package applications
 - Manage dependencies
 - Create build artifacts (e.g., Docker images)
 
 ### [[Test]]
+
 - Unit and integration tests
 - Load and security testing
 - CI pipelines for automated testing
 
 ### [[Release]]
+
 - Approve and manage software versions
 - Prepare deployment strategies
 - Release planning
 
 ### [[Deploy]]
+
 - Automated delivery pipelines (CD)
 - Blue/green or canary deployments
 - Rollbacks in case of issues
 
 ### [[Operate]]
+
 - Maintain infrastructure and systems
 - Kubernetes orchestration
 - Configuration and scaling
 
 ### [[Monitor]]
+
 - Observe system health (logs, metrics)
 - Real-time alerts and dashboards
 - Gather feedback for improvements
@@ -82,3 +90,9 @@ DevOps is a collaborative approach that unifies software development and IT oper
 - Automation first
 - Continuous improvement
 - Fast feedback loops
+
+---
+**Created**: 14 May 2025  
+**Tags**: #DevOps #Cycle #Stages  
+**Related**: [[Monitoring and Observability]], [[Kubernetes]], [[REST API, GraphQL, Graph]]
+---

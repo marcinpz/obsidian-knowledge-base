@@ -67,4 +67,4 @@ Block N-1       Block N       Block N+1
 > **Tip**: Start with a simple blockchain like ~~Ethereum’s Ropsten testnet~~ (deprecated, use [[Sepolia]], [[Holesovice]] - [Holesky Testnet](https://holesky.ethpandaops.io/)) to experiment!
 
 ## Platforms:
-- [[alchemy]] - The complete web3 development platform for wallets, rollups, and apps
+- [[Alchemy]] - The complete web3 development platform for wallets, rollups, and apps
