@@ -1,3 +1,8 @@
+---
+- **Created**: 2025-05-14
+- **Tags**: #DevOps #DailyOperations #BestPractices
+- **Related**: [[REST API, GraphQL, Graph]], [[Kubernetes]], [[Monitoring and Observability]]
+---
 ## Overview
 
 Daily operations in DevOps aim to ensure system reliability, fast recovery from issues, smooth deployments, and efficient collaboration between development and operations teams.
@@ -69,8 +74,3 @@ Daily operations in DevOps aim to ensure system reliability, fast recovery from 
 - Conduct regular retrospectives on incidents and outages.
 - Implement SLOs (Service Level Objectives) and SLIs (Service Level Indicators).
 - Invest in training and skill development.
-
----
-- **Created**: 14 May 2025  
-- **Tags**: #DevOps #DailyOperations #BestPractices  
-- **Related**: [[REST API, GraphQL, Graph]], [[Kubernetes]], [[Monitoring and Observability]]

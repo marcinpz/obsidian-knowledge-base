@@ -1,3 +1,6 @@
+---
+- **Tags**: #fastapi #python #backend #api #web-development
+---
 # FastAPI Overview
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
@@ -91,7 +94,3 @@ def search(params: dict = Depends(common_parameters)):
 - **Uvicorn**: ASGI server to run FastAPI apps.
 - **Pydantic**: Data validation and settings management using Python type annotations.
 - **SQLAlchemy / Tortoise ORM**: Database integration.
-
----
-
-tags: #fastapi #python #backend #api #web-development

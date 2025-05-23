@@ -1,3 +1,8 @@
+---
+- **Created**: 2025-05-14
+- **Tags**: #DevOps #Cycle #Stages
+- **Related**: [[Monitoring and Observability]], [[Kubernetes]], [[REST API, GraphQL, Graph]]
+---
 # DevOps Cycle
 
 DevOps is a collaborative approach that unifies software development and IT operations, emphasizing automation, monitoring, and continuous delivery.
@@ -90,9 +95,3 @@ DevOps is a collaborative approach that unifies software development and IT oper
 - Automation first
 - Continuous improvement
 - Fast feedback loops
-
----
-**Created**: 14 May 2025  
-**Tags**: #DevOps #Cycle #Stages  
-**Related**: [[Monitoring and Observability]], [[Kubernetes]], [[REST API, GraphQL, Graph]]
----

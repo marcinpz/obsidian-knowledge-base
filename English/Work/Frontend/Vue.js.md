@@ -1,3 +1,6 @@
+---
+- **Tags**: #vue #javascript #frontend #spa #web-development
+---
 # Vue.js Overview
 
 Vue.js is a progressive JavaScript framework for building user interfaces. It is designed from the ground up to be incrementally adoptable and can power advanced single-page applications when used in combination with modern tooling.
@@ -144,7 +147,3 @@ const counter = useCounterStore();
 - **Vue Router**: Official routing library for Vue.
     
 - **Vuetify / Tailwind CSS**: UI libraries and design systems.
-    
-
----
-tags: #vue #javascript #frontend #spa #web-development
