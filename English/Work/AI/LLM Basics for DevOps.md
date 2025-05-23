@@ -1,3 +1,6 @@
+---
+- **Tags**: #LLM #DevOps #Automation #AI
+---
 # LLM Basics for DevOps
 
 ## What is an LLM?
@@ -71,6 +74,3 @@ volumes:
 - [xAI API](https://x.ai/api) for Grok integration.
 - [LangChain Docs](https://python.langchain.com/docs/get_started/introduction) for building LLM apps.
 - [Terraform Docs](https://www.terraform.io/docs) for LLM-generated IaC validation.
-
----
-**Tags:** #LLM #DevOps #Automation #AI

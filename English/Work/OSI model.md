@@ -1,9 +1,8 @@
 ---
-title: "OSI Model"
-date: 2025-05-15
-author: "Marcin"
+- **Title**: OSI Model
+- **Author**: Marcin
+- **Created**: 2025-05-15
 ---
-
 The **OSI Model (Open Systems Interconnection Model)** is a conceptual framework used to understand and standardize how different networking systems communicate. It consists of **7 layers**, from physical hardware transmission up to user-level interactions.
 
 Here’s a breakdown of the **7 OSI layers**, from bottom to top:
@@ -49,8 +48,3 @@ Here’s a breakdown of the **7 OSI layers**, from bottom to top:
     - _Function:_ Provides services directly to the user
         
     - _Examples:_ HTTP, FTP, SMTP, DNS
-        
-
----
-
-Would you like a **visual diagram** or **presentation slide** in Canva style for this?

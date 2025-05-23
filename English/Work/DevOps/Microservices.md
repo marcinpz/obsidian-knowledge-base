@@ -1,3 +1,8 @@
+---
+- **Created**: 2025-05-14
+- **Tags**: #DevOps #Microservices #Architecture
+- **Related**: [[Kubernetes]], [[REST API, GraphQL, Graph]], [[Monitoring and Observability]]
+---
 # Understanding Microservices for Senior DevOps Engineers
 
 ## Overview
@@ -68,21 +73,3 @@ Microservices architecture is a design approach where an application is structur
    4. Explain deployment (e.g., Kubernetes with Helm charts, CI/CD with GitHub Actions).
    5. Address observability (e.g., Prometheus for metrics, Jaeger for tracing).
    6. Highlight resilience (e.g., circuit breakers, retry policies).
-
----
-
-## Metadata
-
-- **Created**: 2025-05-10
-- **Tags**: #DevOps #Microservices #InterviewPrep #Kubernetes #CI/CD #Observability
-- **Related**:
-   - [[Kubernetes for DevOps]]
-   - [[CI-CD Best Practices]]
-   - [[Observability in Distributed Systems]]
-   - [[Event-Driven Architecture]]
-
----
-**Created**: 14 May 2025  
-**Tags**: #DevOps #Microservices #Architecture  
-**Related**: [[Kubernetes]], [[REST API, GraphQL, Graph]], [[Monitoring and Observability]]
----
